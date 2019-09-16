@@ -59,7 +59,7 @@ Our slides presentation is available in the <a href="https://gitlab.com/DBertazi
 
 &#8860; &nbsp; **Alessandro Borroni** 
 
-- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (Unimib) ;
+- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (UniMiB) ;
 - *Background*: Laurea triennale in Economia e Commercio presso l'Università degli Studi di Milano-Bicocca.
 <br>
 
@@ -70,7 +70,7 @@ Our slides presentation is available in the <a href="https://gitlab.com/DBertazi
 
 &#8860; &nbsp; **Dario Bertazioli**
 
-- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (Unimib) ;
+- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (UniMiB) ;
 - *Background*: Bachelor degree in Physics @ Università degli Studi di Milano.
 <br>
 
@@ -82,7 +82,7 @@ Our slides presentation is available in the <a href="https://gitlab.com/DBertazi
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
 
-- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (Unimib) ;
+- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (UniMiB) ;
 - *Background*: Laurea triennale in Economia e Statistica per le organizzazioni presso l'Università degli Studi di Torino.
 <br>
 
@@ -94,7 +94,7 @@ Our slides presentation is available in the <a href="https://gitlab.com/DBertazi
 
 &#8860; &nbsp; **Massimiliano Perletti**
 
-- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (Unimib) ;
+- *Current Studies*: Data Science Msc Student @ Università degli Studi di Milano-Bicocca (UniMiB) ;
 - *Background*: Laurea triennale in Ingegneria dei materiali e delle nano-tecnologie presso il Politecnico di Milano.
 <br>
 
