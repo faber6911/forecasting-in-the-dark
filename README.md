@@ -39,20 +39,20 @@ Our objective is to forecast each time series in order to obtain an estimated su
 
 To do this <strong>Reduced Rank Regression</strong> (RRR) and <strong>Long short-term memory neural nets</strong> (LSTM) are used, in order to compare a pure statistical method with machine learning technique.
 
-Dataset exploration, data preprocessing and LSTM models are executed using Python and all the code is available in the <a href="https://gitlab.com/DBertazioli/enercibiddding/tree/master/PyScripts">PyScripts</a> folder while RRR models are made using R and are available in the <a href="https://gitlab.com/DBertazioli/enercibiddding/tree/master/Rscripts">Rscripts</a> folder.
+Dataset exploration, data preprocessing and LSTM models are executed using Python and all the code is available in the <a href="https://github.com/faber6911/forecasting-in-the-dark/tree/master/PyScripts">PyScripts</a> folder while RRR models are made using R and are available in the <a href="https://github.com/faber6911/forecasting-in-the-dark/tree/master/Rscripts">Rscripts</a> folder.
 
 
 <a name="references"></a>
 ## &#9741; &nbsp; References
-All the references for this project are available in the <a href="https://gitlab.com/DBertazioli/enercibiddding/tree/master/ref">ref</a> folder.
+All the references for this project are available in the <a href="https://github.com/faber6911/forecasting-in-the-dark/tree/master/ref">ref</a> folder.
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
-All the data used for this project are available in the <a href="https://gitlab.com/DBertazioli/enercibiddding/tree/master/data">data</a> folder and <a href="https://www.mercatoelettrico.org/it/">here</a>
+All the data used for this project are available in the <a href="https://gitlab.com/DBertazioli/enercibiddding/tree/master/data">data</a> folder (on gitlab) and <a href="https://www.mercatoelettrico.org/it/">here</a>
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation
-Our slides presentation is available in the <a href="https://gitlab.com/DBertazioli/enercibiddding/tree/master/slides">slides</a> folder. 
+Our slides presentation is available in the <a href="https://github.com/faber6911/forecasting-in-the-dark/tree/master/slides">slides</a> folder. 
 
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
