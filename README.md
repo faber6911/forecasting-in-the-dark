@@ -2,7 +2,7 @@
   <a href="http://datascience.disco.unimib.it/it/"><img src ="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/DSunimib.png" width = "100%"></a>
 </p>
 <p align="center">
-  <img src="https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/Forecasting%20in%20the%20Dark%20-%20Light%20light.png" width="18%">
+  <img src="https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/Forecasting%20in%20the%20Dark%20-%20Light%20light.png" width="25%">
 </p>
   <h6 align="center">a Data Science LAB Project</h6>
 <p align="center">
