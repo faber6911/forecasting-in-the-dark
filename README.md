@@ -54,7 +54,7 @@ All the data used for this project are available in the <a href="https://gitlab.
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation
-Our slides presentation is available in the <a href="https://github.com/faber6911/forecasting-in-the-dark/tree/master/slides">slides</a> folder. 
+Our slides presentation is available in the <a href="https://github.com/faber6911/forecasting-in-the-dark/blob/master/slides/Forecasting_in_the_Dark_slides.pdf">slides</a> folder. 
 
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
