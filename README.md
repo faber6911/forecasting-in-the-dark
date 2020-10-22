@@ -22,7 +22,7 @@ Forecasting this <strong>supply function</strong> could be interesting for every
 <p align = "center">
   <br>
   <br>
-  <img src = "https://gitlab.com/DBertazioli/enercibiddding/raw/master/img/supply_surface.png", width = "25%">
+  <img src = "https://raw.githubusercontent.com/faber6911/forecasting-in-the-dark/master/img/supply_surface.png", width = "25%">
 </p>
 <p align="center">
   <em>example of supply surface obtained plotting more supply functions all together</em>
@@ -32,7 +32,7 @@ Our objective is to forecast each time series in order to obtain an estimated su
 <p align = "center">
   <br>
   <br>
-  <img src = "https://gitlab.com/DBertazioli/enercibiddding/raw/master/img/supply_forecasting.png", width = "30%">
+  <img src = "https://raw.githubusercontent.com/faber6911/forecasting-in-the-dark/master/img/supply_forecasting.png", width = "30%">
 </p>
 <p align="center">
   <em>example of time series forecasting</em>
