@@ -17,24 +17,25 @@
 ## &#9741; &nbsp; Overview
 <p> <strong>GME</strong> operates in power, gas and environmental markets. It is the exchange place for electricity and natural gas spot trading in Italy.
 In the power market platform, producers and purchasers sell and buy wholesale electricity. There is an auction for every hour of the day. 
+  <br>
+  <br>
+  Forecasting this <strong>supply function</strong> could be interesting for every energy producer.
 </p>
-Forecasting this <strong>supply function</strong> could be interesting for every energy producer.
   <br>
-  <br>
-  
+  <br>  
 <p align = "center">
-  <img src = "https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/supply_surface.png", width = "25%">
+  <img src="https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/supply_surface.png", width="25%">
 </p>
 
 <p align="center">
   <em>example of supply surface obtained plotting more supply functions all together</em>
 </p>
 <br>
-Our objective is to forecast each time series in order to obtain an estimated supply function for future time (1-hour, 24-hours, 168-hours).
+<p>Our objective is to forecast each time series in order to obtain an estimated supply function for future time (1-hour, 24-hours, 168-hours).</p>
 <br>
 <br>  
 <p align = "center">
-  <img src = "https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/supply_forecasting.png", width = "30%">
+  <img src="https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/supply_forecasting.png", width="30%">
 </p>
 <p align="center">
   <em>example of time series forecasting</em>
