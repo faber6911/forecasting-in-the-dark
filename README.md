@@ -24,7 +24,7 @@ In the power market platform, producers and purchasers sell and buy wholesale el
   <br>
   <br>  
 <p align = "center">
-  <img src="https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/supply_surface.png", width="25%">
+  <img src="https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/supply_surface.png" width="25%">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ In the power market platform, producers and purchasers sell and buy wholesale el
 <br>
 <br>  
 <p align = "center">
-  <img src="https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/supply_forecasting.png", width="30%">
+  <img src="https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/supply_forecasting.png" width="30%">
 </p>
 <p align="center">
   <em>example of time series forecasting</em>
