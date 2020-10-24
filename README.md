@@ -19,19 +19,21 @@
 In the power market platform, producers and purchasers sell and buy wholesale electricity. There is an auction for every hour of the day. 
 </p>
 Forecasting this <strong>supply function</strong> could be interesting for every energy producer.
+  <br>
+  <br>
+  
 <p align = "center">
-  <br>
-  <br>
   <img src = "https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/supply_surface.png", width = "25%">
 </p>
+
 <p align="center">
   <em>example of supply surface obtained plotting more supply functions all together</em>
 </p>
 <br>
 Our objective is to forecast each time series in order to obtain an estimated supply function for future time (1-hour, 24-hours, 168-hours).
+<br>
+<br>  
 <p align = "center">
-  <br>
-  <br>
   <img src = "https://github.com/faber6911/forecasting-in-the-dark/raw/master/img/supply_forecasting.png", width = "30%">
 </p>
 <p align="center">
